@@ -6,7 +6,7 @@ This program removes outliers in time series data by removing data point with hi
 
 The program is developed using .NET Core 3.1. IDE is Visual Studio Code. It is a console application. It reads a CSV file with file name “Outliers.csv” in the same folder as the EXE file. It will output the result CSV file with file name “Outliers(Output).csv” in that folder. If there is no outlier found, it will show “No outlier” in the console instead of writing the CSV file. 
 
-Build and run the code:
+Build and run the program:
 In terminal, go to Outlier folder and run “dotnet run” 
 
 Run the program only:
