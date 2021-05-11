@@ -1,0 +1,13 @@
+C:\Users\Alvin\Documents\Code\Outliers\bin\MCD\Debug\netcoreapp3.1\Outliers.exe
+C:\Users\Alvin\Documents\Code\Outliers\bin\MCD\Debug\netcoreapp3.1\Outliers.deps.json
+C:\Users\Alvin\Documents\Code\Outliers\bin\MCD\Debug\netcoreapp3.1\Outliers.runtimeconfig.json
+C:\Users\Alvin\Documents\Code\Outliers\bin\MCD\Debug\netcoreapp3.1\Outliers.runtimeconfig.dev.json
+C:\Users\Alvin\Documents\Code\Outliers\bin\MCD\Debug\netcoreapp3.1\Outliers.dll
+C:\Users\Alvin\Documents\Code\Outliers\bin\MCD\Debug\netcoreapp3.1\Outliers.pdb
+C:\Users\Alvin\Documents\Code\Outliers\obj\MCD\Debug\netcoreapp3.1\Outliers.csprojAssemblyReference.cache
+C:\Users\Alvin\Documents\Code\Outliers\obj\MCD\Debug\netcoreapp3.1\Outliers.AssemblyInfoInputs.cache
+C:\Users\Alvin\Documents\Code\Outliers\obj\MCD\Debug\netcoreapp3.1\Outliers.AssemblyInfo.cs
+C:\Users\Alvin\Documents\Code\Outliers\obj\MCD\Debug\netcoreapp3.1\Outliers.csproj.CoreCompileInputs.cache
+C:\Users\Alvin\Documents\Code\Outliers\obj\MCD\Debug\netcoreapp3.1\Outliers.dll
+C:\Users\Alvin\Documents\Code\Outliers\obj\MCD\Debug\netcoreapp3.1\Outliers.pdb
+C:\Users\Alvin\Documents\Code\Outliers\obj\MCD\Debug\netcoreapp3.1\Outliers.genruntimeconfig.cache
